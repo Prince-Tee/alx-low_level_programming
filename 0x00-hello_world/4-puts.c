@@ -4,9 +4,8 @@
 
 /**
 
- * main - prints the phrase "Programming is like building a multilingual puzzle
-
- * Return: 0 if exited properly, non-zero otherwise
+ * main - Entry point
+ * Return : Always 1 (success)
 
  */
 
@@ -19,3 +18,4 @@ int main(void)
   return (0);
   
 }
+
