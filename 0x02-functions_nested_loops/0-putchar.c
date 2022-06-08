@@ -1,19 +1,11 @@
 #include "main.h"
 /**
-* main - prints putchar, followed by a new line.
+* main - check the code
 *
-* Return: Always 0 (Success)
+* Return: Always 0.
 */
-int_putchar(char c)
+int main(void)
 {
-putchar('_');
-putchar('p');
-putchar('u');
-putchar('t');
-putchar('c');
-putchar('h');
-putchar('a');
-putchar('r');
-putchar('\n');
+print_alphabet();
 return (0);
 }
