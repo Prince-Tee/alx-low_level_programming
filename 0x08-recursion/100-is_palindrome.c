@@ -15,7 +15,7 @@ return (0);
 return (1 + str_len(s + 1));
 }
 /**
-* is_palindrome - checks for a palindrome
+* check_palindrome - checks for a palindrome
 * @s: input character
 * @i: an interator
 * @len: string length indicator
